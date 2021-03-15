@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+         <title>Fallout</title>
+         <img src= width = "300" height="300">
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+ <body> 
+   
+       <h1 id="tittle">Bethesda</h1><style>
+        .green {
+            color: rgb(24, 87, 48);
+        }
+        
+        #official-info {
+            background: rgb(54, 52, 52);
+        }
+        #official-info {
+            background: rgb(255, 251, 251);
+        }
+
+    </style>
+       <p><div id="official-info"></div> "bethesda"<br>
+      "info about fallout"</p>
+    
+    <ol><div id="tittle"></div>
+    <li>INTRODUCTION   "Bethesda Softworks"</li>
+     <li>"Bethesda game studios is the owner of the fallout franchize however didnt create every fallout game as it was originally owned by interplay."</li>
+     <li><a></a>"bethesda also created doomEternal."</li>
+    
+     <li><a></a>"This is a link to their youtube channel."</li>
+     <a href="https://www.youtube.com/watch?v=0SzkxfsVKwY">videos on story</a>
+
+     <div id="h2">
+     <h2>sidebar
+     <div id="sidebar">
+      
+    </h2>
+
+    </div-class>
+    </ol>
+    </body> 
+</html>
